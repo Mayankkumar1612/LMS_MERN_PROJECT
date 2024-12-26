@@ -1,0 +1,18 @@
+.card {
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .card-title {
+    font-size: 1.25rem;
+    font-weight: bold;
+  }
+  
+  .card-body {
+    text-align: center;
+  }
+  
+  .btn {
+    border-radius: 20px;
+  }
+  

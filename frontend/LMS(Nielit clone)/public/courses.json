@@ -1,0 +1,17 @@
+[
+    {
+      "id": 1,
+      "title": "React Basics",
+      "description": "Learn the fundamentals of React, including components, state, and props.",
+      "duration": "4 weeks",
+      "instructor": "John Doe"
+    },
+    {
+      "id": 2,
+      "title": "Advanced React",
+      "description": "Dive deeper into React, covering hooks, context, and performance optimization.",
+      "duration": "6 weeks",
+      "instructor": "Jane Smith"
+    }
+  ]
+  
